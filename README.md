@@ -1,1 +1,1 @@
-Birthday_Kata
+Birthday_kata
